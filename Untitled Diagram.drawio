@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T07:17:03.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="JW_uITyHcVqZoiGkiQlz" version="22.1.12" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T07:19:26.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="geYmsbH1Hacd_d2iLkl0" version="22.1.12" type="github">
   <diagram name="Page-1" id="ZK5DWsK59enLjVWeMWZs">
     <mxGraphModel dx="954" dy="1392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="Jq71nEJMqbB4D7MDqIDp-25" value="AWS Firewall Manager" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jq71nEJMqbB4D7MDqIDp-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;" edge="1" parent="1">
+        <mxCell id="Jq71nEJMqbB4D7MDqIDp-29" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#FF3333;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="219.5" y="345" as="sourcePoint" />
             <mxPoint x="219.5" y="275" as="targetPoint" />
